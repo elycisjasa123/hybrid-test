@@ -1,0 +1,205 @@
+16:03:49.803 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+16:03:50.002 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+16:03:50.861 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+16:03:50.861 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+16:03:51.243 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+16:04:01.311 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+16:04:05.514 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+16:04:05.596 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+16:04:06.201 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+16:04:06.202 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+16:04:06.489 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+16:04:06.491 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+11:22:21.908 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+11:22:23.759 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+11:22:24.846 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+11:22:24.846 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+11:22:26.035 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+11:22:36.551 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+11:22:48.481 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+11:22:48.558 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+11:22:49.244 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+11:22:49.244 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+11:22:49.451 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+11:22:50.199 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+11:24:15.160 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+11:24:15.260 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+11:24:16.205 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+11:24:16.205 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+11:24:16.516 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+11:24:26.602 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+11:24:38.868 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+11:24:38.970 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+11:24:39.857 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+11:24:39.857 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+11:24:40.109 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+11:24:40.109 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+13:09:52.191 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+13:09:52.458 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+13:09:53.015 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+13:09:53.015 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+13:09:53.477 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+13:09:53.478 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+13:25:15.041 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+13:25:15.146 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+13:25:15.714 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+13:25:15.715 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+13:25:16.099 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+13:25:16.100 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+13:25:26.162 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+13:25:26.180 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+13:25:26.224 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+13:25:26.771 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+13:25:26.771 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+13:25:26.962 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+13:25:26.963 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+13:25:37.003 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+13:25:37.014 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+13:25:37.071 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+13:25:37.549 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+13:25:37.550 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+13:25:37.945 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+13:25:37.946 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+13:25:48.019 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+13:25:48.027 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+13:25:48.087 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+13:25:48.585 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+13:25:48.585 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+13:25:48.794 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+13:25:48.795 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+13:25:58.863 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+13:25:58.872 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+13:25:58.946 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+13:25:59.428 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+13:25:59.428 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+13:25:59.653 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+13:25:59.653 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+15:12:39.729 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+15:12:40.369 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+15:12:42.323 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+15:12:42.324 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+15:12:42.890 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+15:12:52.983 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+15:13:06.745 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+15:13:06.829 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+15:13:07.395 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+15:13:07.395 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+15:13:07.570 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+15:13:07.571 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+15:13:38.627 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+15:13:38.712 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+15:13:39.270 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+15:13:39.270 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+15:13:39.498 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+15:13:39.499 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+15:13:49.569 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+15:13:49.576 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+15:13:49.652 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+15:13:50.197 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+15:13:50.198 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+15:13:50.440 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+15:13:50.444 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+15:14:00.516 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+15:14:00.522 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+15:14:00.579 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+15:14:01.070 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+15:14:01.070 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+15:14:01.302 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+15:14:01.302 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+15:14:11.333 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+15:14:11.341 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+15:14:11.400 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+15:14:11.893 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+15:14:11.893 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+15:14:12.120 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+15:14:12.120 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+15:14:22.192 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Finished TC_003_AccountLoginDDT ****
+15:14:22.207 [main] INFO  testCases.TC_003_AccountLoginDDT - *** Starting TC_003_LoginDDT ******
+15:14:22.276 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on my account
+15:14:22.785 [main] INFO  testCases.TC_003_AccountLoginDDT - Clicked on login option
+15:14:22.785 [main] INFO  testCases.TC_003_AccountLoginDDT - Providing user credentials
+15:14:23.027 [main] INFO  testCases.TC_003_AccountLoginDDT - Login button clicked
+15:14:23.028 [main] INFO  testCases.TC_003_AccountLoginDDT - Validating expected locators exists
+15:25:28.888 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+15:25:28.992 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+15:25:29.973 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+15:25:29.974 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+15:25:30.263 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+15:25:36.423 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+15:44:21.949 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+15:44:22.054 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+15:44:22.571 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+15:44:22.571 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+15:44:22.595 [main] ERROR testCases.TC_001_AccountRegistationTest - Test Failed..
+15:46:15.804 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+15:46:15.912 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+15:46:16.907 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+15:46:16.907 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+15:46:17.386 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+15:46:23.595 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+15:50:50.372 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+15:50:50.603 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+15:50:51.501 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+15:50:51.501 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+15:50:51.964 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+15:51:02.061 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+15:51:13.107 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+15:51:13.214 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+15:51:14.124 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+15:51:14.125 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+15:51:14.402 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+15:51:14.403 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+15:55:22.844 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+15:55:23.063 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+15:55:23.573 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+15:55:23.573 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+15:55:23.797 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+15:55:23.800 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+16:04:02.360 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+16:04:02.586 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+16:04:03.108 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+16:04:03.109 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+16:04:03.338 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+16:04:03.339 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+16:08:07.183 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+16:08:07.451 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+16:08:08.140 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+16:08:08.140 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+16:08:13.711 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+16:08:19.710 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+11:59:44.479 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+11:59:44.964 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+11:59:45.875 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+11:59:45.875 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+11:59:51.272 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+12:00:01.487 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+12:00:10.171 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+12:00:10.277 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+12:00:10.983 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+12:00:10.983 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+12:00:11.176 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+12:00:11.177 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+12:58:14.360 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+12:58:14.586 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+12:58:15.429 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+12:58:15.429 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+12:58:20.916 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+12:58:31.019 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+12:58:46.408 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+12:58:46.764 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+12:58:47.388 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+12:58:47.388 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+12:58:47.663 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+12:58:47.665 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
+13:02:36.990 [main] INFO  testCases.TC_001_AccountRegistationTest - ***** Starting TC_OO1_AccountRegistrationTest ******
+13:02:37.072 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on my account
+13:02:38.102 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on registration option
+13:02:38.102 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing Customer data
+13:02:43.830 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicking the registration button
+13:02:53.889 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message
+13:03:00.166 [main] INFO  testCases.TC_002_AccountLoginTest - ***** Starting TC_002_AccountLoginTest *****
+13:03:00.312 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on my account
+13:03:01.103 [main] INFO  testCases.TC_002_AccountLoginTest - Clicked on login option
+13:03:01.103 [main] INFO  testCases.TC_002_AccountLoginTest - Providing user credentials
+13:03:01.416 [main] INFO  testCases.TC_002_AccountLoginTest - Login button clicked
+13:03:01.417 [main] INFO  testCases.TC_002_AccountLoginTest - Validating expected locators exists
